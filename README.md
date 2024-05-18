@@ -13,7 +13,7 @@
          alt="Waving hand animated gif"
          height="35"
          width="35" />
-     Welcome to NLP Builder GitHub Profile!
+     Welcome to NLP Builder
 </h2>
 
 ## About Us
