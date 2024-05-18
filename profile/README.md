@@ -25,9 +25,7 @@ Join us on our journey as we explore, experiment, and engineer cutting-edge solu
 <h2 align="center"> Languages & Tools </h2>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,html,css,js,bootstrap,nodejs,django,flask,git,firebase,react,markdown,bash,powershell,express,bootstrap,dart,electron,materialui,netlify,stackoverflow,unity,visualstudio,tensorflow,sass" />
-  <br>
-    <img src="https://skillicons.dev/icons?i=mysql,angular,bash,vscode,ts,aws,gcp,mongodb,linux,neovim,androidstudio,flutter,gtk" />
+    <img src="https://skillicons.dev/icons?i=py,nodejs,django,git,markdown,bash,powershell,netlify,stackoverflow,tensorflow,sass,anaconda,debian,django,flask,linux,terraform,mysql,bash,vscode,aws,gcp,mongodb,linux,neovim,flutter,gtk" />
 </p>
 <br>
 
