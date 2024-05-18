@@ -31,21 +31,19 @@ Join us on our journey as we explore, experiment, and engineer cutting-edge solu
 </p>
 <br>
 
-
 # Contribution
 
+We welcome contributions from everyone! To get started, please review our [Contribution Guidelines](/rules/contributions.md).
 
-
-
+Thank you for helping us improve and grow NLP Builder!
 
 # Contact Us
 
 We'd love to hear from you! Whether you have questions, feedback, or collaboration ideas, feel free to reach out to us.
 
-**Main Authors:**
+**Authors:**
+
 - [Abdul Rafay](mailto:99marafay@gmail.com)
-- [Sharjeel M. Rajput](mailto:author2@example.com)
+- [Sharjeel M. Rajput](mailto:sharjeelmazhar@gmail.com)
 
-For general inquiries, please contact us the authors. 
-
-
+For general inquiries, please contact us the authors.
